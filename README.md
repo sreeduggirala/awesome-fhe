@@ -2,6 +2,8 @@
 
 A curated list of awesome things related to learning fully homomorphic encryption (FHE).
 
+Inspiration: [Awesome Homomorphic Encryption: @jonaschn](https://github.com/jonaschn/awesome-he)
+
 ## Contents
 
 - [General introduction](#general-introduction)
