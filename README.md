@@ -5,16 +5,17 @@ A curated list of awesome things related to learning fully homomorphic encryptio
 Inspiration: [Awesome Homomorphic Encryption: @jonaschn](https://github.com/jonaschn/awesome-he)
 
 ## Contents
-
-- [General introduction](#general-introduction)
-- [Courses](#courses)
-- [Use cases](#use-cases)
-- [Comparison of homomorphic encryption types](#comparison-of-homomorphic-encryption-types)
-- [Applications](#applications)
-  - [Zama](#zama)
-  - [Fhenix](#fhenix)
-  - [Sunscreen](#sunscreen)
-- [Libraries](#libraries)
+- Awesome Fully Homomorphic Encryption
+  - [Contents](#contents)
+  - [General introduction](#general-introduction)
+  - [Courses](#courses)
+  - [Use cases](#use-cases)
+  - [Comparison of homomorphic encryption types](#comparison-of-homomorphic-encryption-types)
+  - [Applications](#applications)
+    - [Zama](#zama)
+    - [Fhenix](#fhenix)
+    - [Sunscreen](#sunscreen)
+  - [Libraries](#libraries)
 
 ## General introduction
 
