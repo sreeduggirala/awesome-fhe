@@ -36,8 +36,6 @@ Inspiration: [Awesome Homomorphic Encryption: @jonaschn](https://github.com/jona
 - [Applications of Fully Homomorphic Encryption W/ Zama by Blockchain Acceleration Foundation](https://www.youtube.com/watch?v=RcCEQJkXee0) (YouTube)
 - [Privacy-Preserving Machine Learning with Fully Homomorphic Encryption by Google TechTalks](https://www.youtube.com/watch?v=-lhn2GdHhGc) (YouTube)
 
-## Comparison of homomorphic encryption types
-
 ## Applications
 
 ### [Zama](https://www.zama.ai/)
